@@ -23,9 +23,9 @@
 
 <ins>**Ответ:**</ins>
 
-![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20slave-config.jpg)  
+![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20master-status.jpg)    
 ![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20slave-config2.jpg)  
-![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20master-status.jpg)  
+![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20slave-config.jpg)  
 ![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20slave-status.jpg)
 ![1](https://github.com/AndreyFilon/bd-12-06/blob/main/2.%20replic.jpg)  
 
